@@ -4,3 +4,5 @@ ___
 
 ## [Practica 1](https://github.com/FerLS/RCRA/tree/main/RCRA-P1)
 
+- [Memoria](https://es.overleaf.com/project/65c5da94e9ea946db97489d8)
+
