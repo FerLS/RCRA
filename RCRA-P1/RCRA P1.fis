@@ -13,13 +13,13 @@ DefuzzMethod='centroid'
 
 [Input1]
 Name='pH'
-Range=[0 1]
+Range=[6.8 8]
 NumMFs=5
-MF1='mf1':'trapmf',[-0.1875 -0.02083 0.02083 0.1875]
+MF1='mf1':'trapmf',[6.8 6.8 6.9 7]
 MF2='mf2':'trapmf',[0.0625 0.2292 0.2708 0.4375]
-MF3='mf3':'trapmf',[0.3125 0.4792 0.5208 0.6875]
+MF3='mf3':'trapmf',[7.2 7.35 7.45 7.6]
 MF4='mf4':'trapmf',[0.5625 0.7292 0.7708 0.9375]
-MF5='mf5':'trapmf',[0.8125 0.9792 1.021 1.187]
+MF5='mf5':'trapmf',[7.8 7.9 8 8]
 
 [Input2]
 Name='pCO2'
