@@ -23,19 +23,19 @@ MF5='Muy Alto':'trapmf',[7.8 7.9 8 8]
 
 [Input2]
 Name='pCO2'
-Range=[20 50]
+Range=[10 80]
 NumMFs=3
-MF1='Bajo':'trapmf',[0 0 0 0]
-MF2='Normal':'trapmf',[20 38 42 50]
-MF3='Alto':'trapmf',[0 0 0 0]
+MF1='Bajo':'trapmf',[10 10 25 40]
+MF2='Normal':'trapmf',[25 38 42 55]
+MF3='Alto':'trapmf',[40 55 80 80]
 
 [Input3]
 Name='Bicarbonate'
-Range=[10 30]
+Range=[0 60]
 NumMFs=3
-MF1='Bajo':'trapmf',[0 0 0 0]
-MF2='Normal':'trapmf',[10 24 28 30]
-MF3='Alto':'trapmf',[0 0 0 0]
+MF1='Bajo':'trapmf',[0 0 15 24]
+MF2='Normal':'trapmf',[15 22 26 33]
+MF3='Alto':'trapmf',[24 33 60 60]
 
 [Output1]
 Name='Metabolic Situation'
