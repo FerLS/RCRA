@@ -7,4 +7,4 @@ ___
 - [Memoria](https://es.overleaf.com/project/65c5da94e9ea946db97489d8)
 - [Enunciado](https://github.com/FerLS/RCRA/blob/main/RCRA-P1/Enunciado.pdf)
 
-## [Practica 2](https://github.com/FerLS/RCRA/tree/main/RCRA-P2)
+## [Practica 2](https://github.com/FerLS/RCRA/tree/main/RCRA-Masyu)
